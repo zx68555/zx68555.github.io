@@ -1,2 +1,2 @@
-# zx68555.github.io
-老张的个人博客
+
+模板文件请直接 fork [https://github.com/P233/3-Jekyll](https://github.com/P233/3-Jekyll)
