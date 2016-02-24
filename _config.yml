@@ -1,31 +1,44 @@
-# Site settings
-title: Peiwen Lu
-email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
-description: "Peiwen Lu's front-end blog."
-baseurl: ""
-url: "http://blog.aiphper.comp"
-permalink: /:year/:title
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: 老张
+  email: zx68555@163.com
+  link: http://blog.aiphper.com
+
+# 站点信息
+title: 老张的个人博客
+description: 关注开源，分享，学习，持续
+url: http://blog.aiphper.com
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: http://blog.aiphper.com/assets/img/minion.png
+favicon: http://www.ffan.com/static/images/logo_20150723.png
+
+# google analytics 设置
+# ga:
+#   id: UA-54767140-1
+#   url: yansu.org
+
+# disqus 设置
+disqus:
+  shortname: zx68555
+
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+# filter: 'category'
 
 
 # Social account
-twitter:  PeiwenLu
+# twitter:  username
 # weibo:    ID
-github:   P233
-codepen:  P233
+github:   zx68555
+# codepen:  username
 # dribbble: username
-
-
-# Comment
-# disqus_shortname:
-
-
-# Google Analytics
-google_analytics: UA-60830414-1
-
-
-# Build settings
-markdown: kramdown
-sass:
-  style: compressed
-gems:
-  - jekyll-sitemap
