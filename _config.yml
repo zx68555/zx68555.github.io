@@ -18,9 +18,8 @@ url: http://blog.aiphper.com
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://blog.aiphper.com/assets/img/minion.png
-favicon: http://www.ffan.com/static/images/logo_20150723.png
-
+avatar: /assets/img/avatar.png
+favicon: /assets/img/ico.png
 # google analytics 设置
 # ga:
 #   id: UA-54767140-1
