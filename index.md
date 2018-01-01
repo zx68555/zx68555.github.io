@@ -1,19 +1,14 @@
 ---
 layout: post
-title: Welcome
+title: Welcome 
 date: 2014-05-09
 ---
 
 ## 对博客的理解
 
-
-
-## 博客平台
-
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
-
-我博客的源码托管在[Github](https://github.com/qloog/qloog.github.io)上，如果有任何改进意见，欢迎讨论。
-
+## 本人目前找工作，简历地址：
+[老张的简历](http://dazhang.deercv.com/) 
+ 
 ## 开发工具
 
 > 以下工具都是基于MAC 下的
