@@ -1,21 +1,19 @@
 ---
 layout: post
 title: Welcome 
-date: 2014-05-09
+date: 2018-01-09
 ---
-## 简历地址：
-[老张的简历](http://dazhang.deercv.com/) 
+## 简历地址： 
  
 ## 详细
 ### 个人信息
- - 张永伟/男/1986.4
- - 工作年限：8.5年
+ - 张永伟/男/1986
+ - 工作年限：10年
  - 联系方式：手机:13520093035|wechat:13520093035
  - email: zx68555@163.com
  - 技术博客：http://blog.aiphper.com/ 
  - Github: https://github.com/zx68555/simple
  - 期望职位：项目架构，资深开发，系统架构师，技术经理
- - 期望薪资：年65W
 #### 开源项目和作品
 
  - [simple](http://github.com/zx68555/simple) : 一个简单的lua应用框架
