@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://blog.aiphper.com](http://blog.aiphper.com)
+地址：[http://laozhang.art/](http://laozhang.art/)
 
 ### 安装说明
 
